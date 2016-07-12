@@ -2,5 +2,11 @@
 name = "scuffle_net"
 version = "0.1.0"
 authors = ["Johan Gall <johan.gall@gmail.com>"]
+publish = false
 
 [dependencies]
+
+
+[workspace]
+members = ["raknet-sys", "raknet"]
+# need to add the STUN/TURN/ICE lib

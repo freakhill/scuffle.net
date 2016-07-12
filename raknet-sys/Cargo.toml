@@ -1,0 +1,7 @@
+[package]
+name = "raknet-sys"
+version = "0.1.0"
+authors = ["Johan Gall <johan.gall@gmail.com>"]
+workspace = "../"
+
+[dependencies]
