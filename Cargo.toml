@@ -1,0 +1,6 @@
+[package]
+name = "scuffle_net"
+version = "0.1.0"
+authors = ["Johan Gall <johan.gall@gmail.com>"]
+
+[dependencies]
